@@ -1,0 +1,19 @@
+# Data and Spark outputs
+data/
+spark-warehouse/
+metastore_db/
+derby.log
+checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Notebooks and editors
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+.ruff_cache/
